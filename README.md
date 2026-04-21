@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Uhlogr
 - 👀 I’m interested in Electronics, Telecommunications, programming and Embedded Systems
-- 🌱 I’m currently learning Computer Engeneering
-- 💞️ I’m looking to collaborate on Any project where I can contribute
+- 🌱 I’m learning Computer Engeneering
 - 📫 How to reach me: here at my profile
 
 <!---
